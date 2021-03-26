@@ -14,7 +14,7 @@ First, visualize a Directed or Undirected Graph that you would like to draw. For
 ![Undirected Graph](https://i.ibb.co/3RQyTs1/shallow-First-Image1.png)
 
 ```Python
-import shallow_first_search as sfs
+import shallow_first_search.main as sfs
 
 undirectedGraph = sfs.Graph()
 
