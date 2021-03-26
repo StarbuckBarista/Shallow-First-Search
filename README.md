@@ -16,7 +16,7 @@ First, visualize a Directed or Undirected Graph that you would like to draw. For
 ```Python
 import shallow_first_search as sfs
 
-undirectedGraph = sfs.Diagraph()
+undirectedGraph = sfs.Graph()
 
 nodeA = sfs.Node("A")
 nodeB = sfs.Node("B")
@@ -34,7 +34,7 @@ path = shortestPath(g, g.getNode("A"), g.getNode("D"))
 print(sfs.evaluateAnswer(path))
 ```
 
-For more detailed documentation and available options, visit https://whatever
+For more detailed documentation and available options, visit https://github.com/StarbuckBarista/Shallow-First-Search/wiki/Documentation
 
 ## Examples
 
