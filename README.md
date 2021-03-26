@@ -5,7 +5,7 @@ Current Version: `0.1.0`
 
 ## Installation
 
-TODO
+Launch your Command Prompt and type in the command `git clone https://github.com/StarbuckBarista/Shallow-First-Search`. This will create a copy of the code in this repository. Next, find the cloned file and extract the `shallow_first_search` directory from it. Finally, drag this directory into your code project's directory and you are good to go.
 
 ## Getting Started
 
