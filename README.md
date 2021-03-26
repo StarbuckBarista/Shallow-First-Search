@@ -38,4 +38,4 @@ For more detailed documentation and available options, visit https://github.com/
 
 ## Examples
 
-Various examples on how to use Shallow-First-Search can be found in the [examples folder](https://whatever).
+Various examples on how to use Shallow-First-Search can be found in the [examples folder](https://github.com/StarbuckBarista/Shallow-First-Search/tree/main/examples).
