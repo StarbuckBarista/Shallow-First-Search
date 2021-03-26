@@ -24,7 +24,7 @@ nodeC = sfs.Node("C")
 nodeD = sfs.Node("D")
 edgeAB = sfs.Edge(nodeA, nodeB)
 edgeBC = sfs.Edge(nodeB, nodeC)
-edge CD = sfs.Edge(nodeC, nodeD)
+edgeCD = sfs.Edge(nodeC, nodeD)
 
 undirectedGraph.addEdge(edgeAB)
 undirectedGraph.addEdge(edgeBC)
